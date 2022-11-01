@@ -1,0 +1,10 @@
+temp=25.0°C, wind=7.0°Km/h, humidity=39.0%, visibility=2100.0m, pressure= mb at time 01/11/2022 09:46:58
+temp=25.0°C, wind=7.0°Km/h, humidity=39.0%, visibility=2100.0m, pressure= mb at time 01/11/2022 09:47:00
+temp=25.0°C, wind=7.0°Km/h, humidity=39.0%, visibility=2100.0m, pressure= mb at time 01/11/2022 09:47:01
+temp=25.0°C, wind=7.0°Km/h, humidity=39.0%, visibility=2100.0m, pressure= mb at time 01/11/2022 09:47:03
+temp=25.0°C, wind=7.0°Km/h, humidity=39.0%, visibility=2100.0m, pressure= mb at time 01/11/2022 09:47:05
+temp=25.0°C, wind=7.0°Km/h, humidity=39.0%, visibility=2100.0m, pressure= mb at time 01/11/2022 09:47:06
+temp=25.0°C, wind=7.0°Km/h, humidity=39.0%, visibility=2100.0m, pressure= mb at time 01/11/2022 09:47:08
+temp=25.0°C, wind=7.0°Km/h, humidity=39.0%, visibility=2100.0m, pressure= mb at time 01/11/2022 09:47:10
+temp=25.0°C, wind=7.0°Km/h, humidity=39.0%, visibility=2100.0m, pressure= mb at time 01/11/2022 09:47:11
+temp=25.0°C, wind=7.0°Km/h, humidity=39.0%, visibility=2100.0m, pressure= mb at time 01/11/2022 09:47:14
